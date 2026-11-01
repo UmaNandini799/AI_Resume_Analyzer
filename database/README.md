@@ -1,0 +1,1 @@
+Create a Supabase project, create a private Storage bucket named `resumes`, and execute schema.sql in SQL Editor. Configure backend/.env.example values as environment variables. Never place the service-role key in frontend code.
